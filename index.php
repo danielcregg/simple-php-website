@@ -8,5 +8,7 @@
     <?php
       echo "This is some php text!";
     ?>
+    <!-- Uncomment the line below once you have the shopping cart integrated -->
+    <!-- <a href="shop.html" class="button">Go to Shop</a> -->
   </body>
 </html>
